@@ -7,3 +7,4 @@ First finished mounting:
 
 Second mounting:  
 ![Lightguide Spot](mounting_lightguide_spot_12mm.svg)
+![Lightguide Spot](mounting_lightguide_spot_17mm.svg)
