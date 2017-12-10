@@ -3,9 +3,10 @@
 
 # Instructions for 'Mounting Lightguide Spot' and CrystalLight
 
+## Lightguide Spot 12mm
+![Lightguide Spot 12mm](mounting_lightguide_spot_12mm/mounting_lightguide_spot_12mm.svg)
 
-![Mounting Sun](mounting_sun/mounting_sun.svg)
-![Lightguide Spot](mounting_lightguide_spot_12mm/mounting_lightguide_spot_12mm.svg)
+## Lightguide Spot 17mm
 ![Lightguide Spot](mounting_lightguide_spot_17mm/mounting_lightguide_spot_17mm.svg)
 
 ## CrystalLightV2
