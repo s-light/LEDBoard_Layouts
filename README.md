@@ -3,8 +3,8 @@ Examples of Mounting Variants for the LEDBoard_4x4_16bit Modules
 
 First finished mounting:
 
-![Mounting Sun](mounting_sun.svg)
+![Mounting Sun](mounting_sun/mounting_sun.svg)
 
 Second mounting:  
-![Lightguide Spot](mounting_lightguide_spot_12mm.svg)
-![Lightguide Spot](mounting_lightguide_spot_17mm.svg)
+![Lightguide Spot](mounting_lightguide_spot_12mm/mounting_lightguide_spot_12mm.svg)
+![Lightguide Spot](mounting_lightguide_spot_17mm/mounting_lightguide_spot_17mm.svg)
